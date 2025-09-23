@@ -29,11 +29,12 @@ chmod +x Groot2-v1.6.1-linux-installer.run
 ```
 
 ## 📁 File Structure
-
+```bash
 tools-binaries/
 ├── README.md
 ├── Groot2-v1.6.1-linux-installer.run
 └── (more tools...)
+```
 
 ## ⚠️ Important Notes
 - Some files are large and are managed using Git LFS
